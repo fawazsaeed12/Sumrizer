@@ -1,0 +1,8 @@
+{
+  "name": "Sumrizer",
+  "description": "Smart lecture companion powered by Gemma & Gemini that transforms raw lecture notes and key points into structured deep dives, exam questions, and interactive on-demand answers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
